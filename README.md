@@ -1,4 +1,9 @@
-https://eloquent-entremet-a86d6a.netlify.app/
+## 데모 사이트
+
+[프로젝트 데모 사이트 바로가기](https://eloquent-entremet-a86d6a.netlify.app/)
+
+프로젝트를 실제로 사용해보고 싶다면 위 링크를 방문하세요.
+
 
 # 날씨 앱
 
