@@ -22,8 +22,7 @@ https://eloquent-entremet-a86d6a.netlify.app/
 
 1-1. **프로젝트를 클론합니다.**
 
-   ```bash
-   git clone https://github.com/song-jiae/weather-app.git
+git clone https://github.com/song-jiae/weather-app.git
 
 1-2. 프로젝트 폴더로 이동한 후 설치합니다.
 cd weather-app
