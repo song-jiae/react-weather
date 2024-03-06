@@ -20,16 +20,16 @@ https://eloquent-entremet-a86d6a.netlify.app/
 
 ## 🚀 설치 및 실행
 
-###1-1. **프로젝트를 클론합니다.**
+### 1-1. **프로젝트를 클론합니다.**
 
 git clone https://github.com/song-jiae/weather-app.git
 
-###1-2. 프로젝트 폴더로 이동한 후 설치합니다.  
+###  1-2. 프로젝트 폴더로 이동한 후 설치합니다.  
 cd weather-app  
 npm install  
-###1-3. 앱을 실행합니다.  
+### 1-3. 앱을 실행합니다.  
 npm start  
-###1-4. http://localhost:3000에서 앱을 확인  
+### 1-4. http://localhost:3000에서 앱을 확인  
 
 
 ### 사용한 기술 및 라이브러리  
