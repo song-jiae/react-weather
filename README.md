@@ -32,7 +32,7 @@ npm start
 ### 1-4. http://localhost:3000에서 앱을 확인  
 
 
-### 사용한 기술 및 라이브러리  
+# 사용한 기술 및 라이브러리  
 #### React: UI 구성 및 상태 관리  
 #### OpenWeatherMap API: 날씨 정보 제공  
 #### react-spinners: 로딩 스피너 컴포넌트  
