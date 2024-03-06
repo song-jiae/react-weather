@@ -25,12 +25,12 @@ https://eloquent-entremet-a86d6a.netlify.app/
    ```bash
    git clone https://github.com/song-jiae/weather-app.git
 
-1-2. 프로젝트 폴더로 이동한 후 의존성을 설치합니다.
-```cd weather-app
-```npm install
+1-2. 프로젝트 폴더로 이동한 후 설치합니다.
+cd weather-app
+npm install
 1-3. 앱을 실행합니다.
-```npm start
-1-4. http://localhost:3000에서 앱을 확인하세요.
+npm start
+1-4. http://localhost:3000에서 앱을 확인
 
 
 🛠 사용한 기술 및 라이브러리
